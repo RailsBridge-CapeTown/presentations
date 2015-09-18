@@ -13,6 +13,9 @@
 
 ## Our awesome sponsors
 
+![Unboxed](img/unboxed.png)
+![Platform45](img/platform45.png)
+
 ---
 
 ### Open source workshop
