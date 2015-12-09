@@ -5,16 +5,16 @@
 
 ### Schedule for the day
 
-## 11am Break
-## 1pm Lunch
-## 3pm Break
+## 10.30am - Break
+## 12.30pm - Lunch
+## 3pm - Break (with snacks)
 
 ---
 
 ## Our awesome sponsors
 
-![Unboxed](img/unboxed.png)
-![Platform45](img/platform45.png)
+![Codex inline](img/codex-logo.png)
+![Buffer inline 200%](img/buffer-logo.png)
 
 ---
 
@@ -78,7 +78,7 @@ Publish
 ## Your development set up
 # Text editor, Terminal, Browser
 
-![Sublime Text inline](img/set-up-text-editor.png) ![Terminal inline](img/set-up-terminal.png) ![Browser inline](img/set-up-browser.png)
+![Sublime Text inline 60%](img/set-up-text-editor.png) ![Terminal inline 60%](img/set-up-terminal.png) ![Browser inline 60%](img/set-up-browser.png)
 
 ^ Write Code
 Issue Commands
@@ -104,4 +104,4 @@ See the Results
 
 ---
 
-# [fit] [rbcpt.org/start](http://rbcpt.org/start/)
+# [fit] [rbcpt.org/install](http://rbcpt.org/install/)
