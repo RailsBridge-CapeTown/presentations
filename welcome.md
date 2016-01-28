@@ -1,6 +1,8 @@
 
 ![Railsbridge 100%](img/railsbridge-cape-town-logo-large.png)
 
+^ intros
+
 ---
 
 ### Schedule for the day
@@ -14,7 +16,7 @@
 ## Our awesome sponsors
 
 ![Codex inline](img/codex-logo.png)
-![Buffer inline 200%](img/buffer-logo.png)
+![Rubyfuza inline](img/rubyfuza.png)
 
 ---
 
@@ -27,13 +29,13 @@
 
 ---
 
-### Survey
+### More betterer
 
-## We want to make it more betterer
 ## Make notes as you go along
+## Survey: [rbcpt.org/exitsurvey](http://rbcpt.org/exitsurvey)
 
-
-^ Some things we've added: extra credit; diagrams; sponsors; breaks; overview; glossary; resources page; lightning talks
+^ We want to make it more betterer
+We've added: breaks; overview; glossary; resources page; lightning talk
 
 ---
 
@@ -42,7 +44,8 @@
 ## Diversity in Cape Town tech
 ## Programming skills: useful, empowering, fun
 
-^ Especially on the web
+^ People making the software should reflect the people using it
+Especially on the web
 
 ---
 
