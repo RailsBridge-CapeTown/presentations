@@ -1,5 +1,8 @@
 ![Railsbridge 100%](img/railsbridge-cape-town-logo-large.png)
 
+^ intros
+name, what you do
+
 ---
 
 ## Tonight

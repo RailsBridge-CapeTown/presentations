@@ -2,6 +2,7 @@
 ![Railsbridge 100%](img/railsbridge-cape-town-logo-large.png)
 
 ^ intros
+name, what you do
 
 ---
 
@@ -9,7 +10,9 @@
 
 ## 10.30am - Break
 ## 12.30pm - Lunch
-## 3pm - Break (with snacks)
+## 3pm - Break
+
+^ Also up on wall
 
 ---
 
@@ -25,7 +28,8 @@
 ## Community project
 ## Editable by anyone
 
-^ github.com/RailsBridge-CapeTown
+^ site, docs, activities
+not the animal stickers
 
 ---
 
@@ -34,8 +38,8 @@
 ## Make notes as you go along
 ## Survey: [rbcpt.org/exitsurvey](http://rbcpt.org/exitsurvey)
 
-^ We want to make it more betterer
-We've added: breaks; overview; glossary; resources page; lightning talk
+^ We've added: breaks; overview; glossary; lightning talk
+Survey is anonymous
 
 ---
 
@@ -89,11 +93,12 @@ See the Results
 
 ---
 
-### The Rails Philosophy
+### The Rails Philosopy
 
 ## Opinionated
 ## Convention over configuration
 ## Minimal code - maximal effect
+
 
 ---
 
@@ -107,4 +112,6 @@ See the Results
 
 ---
 
-# [fit] [rbcpt.org/install](http://rbcpt.org/install/)
+# [fit] [rbcpt.org/start](http://rbcpt.org/start/)
+
+^ carryon with installfest
