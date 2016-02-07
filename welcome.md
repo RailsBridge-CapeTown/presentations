@@ -3,6 +3,7 @@
 
 ^ intros
 name, what you do
+o/ for help
 
 ---
 
