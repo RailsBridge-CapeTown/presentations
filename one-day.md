@@ -13,8 +13,9 @@ name, what you do
 
 ---
 
-## InstallFest
-# Download, Install, Sign Up, Check
+# InstallFest
+
+—
 
 ![Download inline](img/download.png) ![Install inline](img/install.png) ![Sign Up inline](img/user.png) ![Check inline](img/check.png)
 
@@ -25,20 +26,20 @@ That they work
 
 ---
 
+# Intro to Rails Workshop
 
-## Workshop
-# Ruby, Rails, Git, Heroku
+—
 
 ![Ruby inline](img/ruby-logo.jpg) ![Rails inline](img/rails-logo.jpg) ![Git inline](img/git-logo.png) ![Heroku inline](img/heroku-logo.png)
 
-^ A programming Language
-A Framework: patterns for building web apps
-A source control system
-A hosting platform
+^ Work through course yourself
+Teachers hover: ask us questions
 
 ---
 
 # How do they fit together?
+
+—
 
 ![Ruby, Rails inline](img/fit-together-ruby-rails.png) ![Git inline](img/fit-together-git.png) ![Heroku inline](img/fit-together-heroku.png)
 
@@ -48,8 +49,9 @@ Publish
 
 ---
 
-## Your development set up
-# Text editor, Terminal, Browser
+# Your development set up
+
+—
 
 ![Sublime Text inline](img/set-up-text-editor.png) ![Terminal inline](img/set-up-terminal.png) ![Browser inline](img/set-up-browser.png)
 
@@ -59,10 +61,15 @@ See the Results
 
 ---
 
-### Why are we here?
+# Why are we here?
+
+—
 
 ## Diversity in Cape Town tech
-## Programming skills: useful, empowering, fun
+
+—
+
+## Programming skills:<br>useful, empowering, fun
 
 ^ People making the software should reflect the people using it
 Especially on the web
@@ -75,41 +82,61 @@ Especially on the web
 
 ---
 
-### Open source workshop
-
-## Community project
-## Editable by anyone
-
-^ site, docs, activities
+# Open source workshop
 
 ---
 
-### Goal of the day
-## Build and publish a web application
-## On the internetz!
+# Goal of the day
+
+—
+
+# Build and publish<br>a web application
+
+—
+
+# On the internetz!
 
 ^ In our case, a voting system
 
 ---
 
-### The Rails Philosopy
+# The Rails Philosopy
 
-## Opinionated
-## Convention over configuration
-## Minimal code - maximal effect
+—
+
+# Opinionated
+
+—
+
+# Convention over configuration
+
+—
+
+# Minimal code - maximal effect
 
 ---
 
-### After today?
+# After today?
 
-## [rbcpt.org/resources](http://rbcpt.org/resources/)
-## More coding, Ruby, or Rails
-## Do another RailsBridge
+—
+
+# [rbcpt.org/resources](http://rbcpt.org/resources/)
+
+—
+
+# More coding, Ruby, or Rails
+
+—
+
+# Do another RailsBridge
 
 ---
 
-## Help us improve the docs: stickies!
-## @RailsBridgeCPT #railsbridge
+# Help us improve the docs: stickies!
+
+—
+
+# @RailsBridgeCPT #railsbridge
 
 ---
 
