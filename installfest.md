@@ -2,6 +2,8 @@
 
 ^ intros
 name, what you do
+work through course
+ask us Qs
 
 ---
 
