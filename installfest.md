@@ -1,8 +1,7 @@
 ![Railsbridge 100%](img/railsbridge-cape-town-logo-large.png)
 
 ^ intros
-name, what you do
-alumini?
+name, what you do. alumni?
 work through course
 ask us Qs
 
