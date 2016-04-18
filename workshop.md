@@ -18,10 +18,17 @@ ask us Qs
 
 ---
 
-## Our awesome sponsors
+### Why are we here?
 
-![Codex inline](img/codex-logo.png)
-![Rubyfuza inline](img/rubyfuza.png)
+## Diversity in Cape Town tech
+## Programming skills: useful, empowering, fun
+
+^ People making the software should reflect the people using it
+Especially on the web
+
+---
+
+# Code of Conduct: [rbcpt.org/code](http://rbcpt.org/code/)
 
 ---
 
@@ -42,16 +49,6 @@ not the animal stickers
 
 ^ We've added: breaks; overview; glossary; lightning talk
 Survey is anonymous
-
----
-
-### Why are we here?
-
-## Diversity in Cape Town tech
-## Programming skills: useful, empowering, fun
-
-^ People making the software should reflect the people using it
-Especially on the web
 
 ---
 
@@ -101,7 +98,6 @@ See the Results
 ## Convention over configuration
 ## Minimal code - maximal effect
 
-
 ---
 
 ### After today?
@@ -111,6 +107,13 @@ See the Results
 ## Do another RailsBridge
 
 ^ Become a developer?
+
+---
+
+## Our awesome sponsors
+
+![Codex inline](img/codex-logo.png)
+![Rubyfuza inline](img/rubyfuza.png)
 
 ---
 
