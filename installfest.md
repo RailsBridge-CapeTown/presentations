@@ -2,6 +2,7 @@
 
 ^ intros
 name, what you do
+alumini?
 work through course
 ask us Qs
 
