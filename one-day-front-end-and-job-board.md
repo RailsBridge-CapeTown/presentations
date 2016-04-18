@@ -77,6 +77,12 @@ Become a developer?
 ---
 
 ## Our awesome sponsors
+![]()
+
+---
+
+## 5 minute
+## Question & Answer session
 
 ---
 
