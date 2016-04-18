@@ -2,14 +2,20 @@
 
 ^ intros
 name, what you do
-alumini?
-work through course
-ask us Qs
 
 ---
 
-## InstallFest
-# Download, Install, Sign Up, Check
+### Schedule for the day
+
+## 10.30am - Break
+## 12.30pm - Lunch
+## 3pm - Break
+
+---
+
+# InstallFest
+
+—
 
 ![Download inline](img/download.png) ![Install inline](img/install.png) ![Sign Up inline](img/user.png) ![Check inline](img/check.png)
 
@@ -20,20 +26,20 @@ That they work
 
 ---
 
+# Intro to Rails Workshop
 
-## Intro to Rails Workshop
-# Ruby, Rails, Git, Heroku
+—
 
 ![Ruby inline](img/ruby-logo.jpg) ![Rails inline](img/rails-logo.jpg) ![Git inline](img/git-logo.png) ![Heroku inline](img/heroku-logo.png)
 
-^ A programming Language
-A Framework: patterns for building web apps
-A source control system
-A hosting platform
+^ Work through course yourself
+Teachers hover: ask us questions
 
 ---
 
 # How do they fit together?
+
+—
 
 ![Ruby, Rails inline](img/fit-together-ruby-rails.png) ![Git inline](img/fit-together-git.png) ![Heroku inline](img/fit-together-heroku.png)
 
@@ -43,8 +49,9 @@ Publish
 
 ---
 
-## Your development set up
-# Text editor, Terminal, Browser
+# Your development set up
+
+—
 
 ![Sublime Text inline](img/set-up-text-editor.png) ![Terminal inline](img/set-up-terminal.png) ![Browser inline](img/set-up-browser.png)
 
@@ -54,10 +61,15 @@ See the Results
 
 ---
 
-### Why are we here?
+# Why are we here?
+
+—
 
 ## Diversity in Cape Town tech
-## Programming skills: useful, empowering, fun
+
+—
+
+## Programming skills:<br>useful, empowering, fun
 
 ^ People making the software should reflect the people using it
 Especially on the web
@@ -66,60 +78,65 @@ Especially on the web
 
 # Code of Conduct: [rbcpt.org/code](http://rbcpt.org/code/)
 
----
-
-### Open source workshop
-
-## Community project
-## Editable by anyone
-
-^ site, docs, activities
-not the animal stickers
+^ short version: be nice
 
 ---
 
-### More betterer
-
-## Make notes as you go along
-## Survey: [rbcpt.org/exitsurvey](http://rbcpt.org/exitsurvey)
-
-^ We've added: breaks; overview; glossary; lightning talk
-Survey is anonymous
+# Open source workshop
 
 ---
 
-### Goal of the day
-## Build and publish a web application
-## On the internetz!
+# Goal of the day
+
+—
+
+# Build and publish<br>a web application
+
+—
+
+# On the internetz!
 
 ^ In our case, a voting system
 
 ---
 
-### The Rails Philosopy
+# The Rails Philosopy
 
-## Opinionated
-## Convention over configuration
-## Minimal code - maximal effect
+—
 
----
+# Opinionated
 
-### After today?
+—
 
-## [rbcpt.org/resources](http://rbcpt.org/resources/)
-## More coding, Ruby, or Rails
-## Do another RailsBridge
+# Convention over configuration
 
-^ Become a developer?
+—
+
+# Minimal code - maximal effect
 
 ---
 
-## Help us improve the docs: stickies!
-## @RailsBridgeCPT #railsbridge
+# After today?
+
+—
+
+# [rbcpt.org/resources](http://rbcpt.org/resources/)
+
+—
+
+# More coding, Ruby, or Rails
+
+—
+
+# Do another RailsBridge
 
 ---
 
-## Our awesome sponsors
+# Help us improve the docs: stickies!
+
+—
+
+# @RailsBridgeCPT #railsbridge
 
 ---
 
