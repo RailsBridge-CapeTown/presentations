@@ -19,19 +19,6 @@ That they work
 
 ---
 
-
-## Intro to Rails Workshop
-# Ruby, Rails, Git, Heroku
-
-![Ruby inline](img/ruby-logo.jpg) ![Rails inline](img/rails-logo.jpg) ![Git inline](img/git-logo.png) ![Heroku inline](img/heroku-logo.png)
-
-^ A programming Language
-A Framework: patterns for building web apps
-A source control system
-A hosting platform
-
----
-
 # How do they fit together?
 
 ![Ruby, Rails inline](img/fit-together-ruby-rails.png) ![Git inline](img/fit-together-git.png) ![Heroku inline](img/fit-together-heroku.png)
@@ -92,14 +79,6 @@ Survey is anonymous
 ## On the internetz!
 
 ^ In our case, a voting system
-
----
-
-### The Rails Philosopy
-
-## Opinionated
-## Convention over configuration
-## Minimal code - maximal effect
 
 ---
 
