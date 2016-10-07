@@ -77,14 +77,12 @@ Become a developer?
 ---
 
 ## Our awesome sponsors
-![]()
 
 ---
 
-## 5 minute
-## Question & Answer session
+## Warm-up activity
 
 ---
 
-# [rbcpt.org/fed](http://rbcpt.org/fed/)
+# [rbcpt.org/frontend](http://rbcpt.org/frontend/)
 # [rbcpt.org/job](http://rbcpt.org/job/)
